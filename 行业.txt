@@ -1,0 +1,20 @@
+1 汽车与出行  automotive #
+2 生物制药  default_pharmaceuticals #
+3 消费品  default_consumerGoods #
+4 教育  edu #
+5 能源与环境
+6 工程产品与基础设施
+7 金融机构  default_finance
+8 医疗保健支付方和服务提供方 default_medicalCare #
+9 保险 1 #
+10 媒体与娱乐  default_mediaEntertainment
+11 医疗器械与技术 1 #
+12 金属与采矿  default_metalsMining
+13 本金投资和私募投资 1
+14 加工业和建筑材料 1
+15 公共部门 1
+16 零售 1
+17 社会部门
+18 技术与行业
+19 电信 1
+20 交通、旅行和旅游 1
